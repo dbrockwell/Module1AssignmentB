@@ -1,0 +1,15 @@
+C:\Users\chees\RiderProjects\Module1AssignmentB\Module1AssignmentB\obj\Debug\net7.0\Module1AssignmentB.csproj.AssemblyReference.cache
+C:\Users\chees\RiderProjects\Module1AssignmentB\Module1AssignmentB\obj\Debug\net7.0\Module1AssignmentB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chees\RiderProjects\Module1AssignmentB\Module1AssignmentB\obj\Debug\net7.0\Module1AssignmentB.AssemblyInfoInputs.cache
+C:\Users\chees\RiderProjects\Module1AssignmentB\Module1AssignmentB\obj\Debug\net7.0\Module1AssignmentB.AssemblyInfo.cs
+C:\Users\chees\RiderProjects\Module1AssignmentB\Module1AssignmentB\obj\Debug\net7.0\Module1AssignmentB.csproj.CoreCompileInputs.cache
+C:\Users\chees\RiderProjects\Module1AssignmentB\Module1AssignmentB\bin\Debug\net7.0\Module1AssignmentB.exe
+C:\Users\chees\RiderProjects\Module1AssignmentB\Module1AssignmentB\bin\Debug\net7.0\Module1AssignmentB.deps.json
+C:\Users\chees\RiderProjects\Module1AssignmentB\Module1AssignmentB\bin\Debug\net7.0\Module1AssignmentB.runtimeconfig.json
+C:\Users\chees\RiderProjects\Module1AssignmentB\Module1AssignmentB\bin\Debug\net7.0\Module1AssignmentB.dll
+C:\Users\chees\RiderProjects\Module1AssignmentB\Module1AssignmentB\bin\Debug\net7.0\Module1AssignmentB.pdb
+C:\Users\chees\RiderProjects\Module1AssignmentB\Module1AssignmentB\obj\Debug\net7.0\Module1AssignmentB.dll
+C:\Users\chees\RiderProjects\Module1AssignmentB\Module1AssignmentB\obj\Debug\net7.0\refint\Module1AssignmentB.dll
+C:\Users\chees\RiderProjects\Module1AssignmentB\Module1AssignmentB\obj\Debug\net7.0\Module1AssignmentB.pdb
+C:\Users\chees\RiderProjects\Module1AssignmentB\Module1AssignmentB\obj\Debug\net7.0\Module1AssignmentB.genruntimeconfig.cache
+C:\Users\chees\RiderProjects\Module1AssignmentB\Module1AssignmentB\obj\Debug\net7.0\ref\Module1AssignmentB.dll
